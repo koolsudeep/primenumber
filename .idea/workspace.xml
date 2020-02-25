@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd5465a6-f25a-4c5a-807f-809ad2e93868" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y6pD9qBgVvcj6w20JU0dX0FH0j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.pacakage.PrimeNumber.PrimeNumber" />
+      <module name="PrimeNumber" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd5465a6-f25a-4c5a-807f-809ad2e93868" name="Default Changelist" comment="" />
+      <created>1582272775818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582272775818</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1236" height="212" key="GridCell.Tab.0.bottom" timestamp="1582596607621">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582481293794" />
+    <state width="1236" height="212" key="GridCell.Tab.0.bottom/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596607621" />
+    <state width="1236" height="212" key="GridCell.Tab.0.center" timestamp="1582596607619">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582481293792" />
+    <state width="1236" height="212" key="GridCell.Tab.0.center/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596607619" />
+    <state width="1236" height="212" key="GridCell.Tab.0.left" timestamp="1582596607618">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582481293792" />
+    <state width="1236" height="212" key="GridCell.Tab.0.left/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596607618" />
+    <state width="1236" height="212" key="GridCell.Tab.0.right" timestamp="1582596607620">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582481293793" />
+    <state width="1236" height="212" key="GridCell.Tab.0.right/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596607620" />
+    <state width="1236" height="263" key="GridCell.Tab.1.bottom" timestamp="1582596600172">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="263" key="GridCell.Tab.1.bottom/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596600172" />
+    <state width="1236" height="263" key="GridCell.Tab.1.center" timestamp="1582596600169">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="263" key="GridCell.Tab.1.center/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596600169" />
+    <state width="1236" height="263" key="GridCell.Tab.1.left" timestamp="1582596600168">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="263" key="GridCell.Tab.1.left/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596600168" />
+    <state width="1236" height="263" key="GridCell.Tab.1.right" timestamp="1582596600170">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1236" height="263" key="GridCell.Tab.1.right/1280.0.2560.1440/0.0.1280.800@0.0.1280.800" timestamp="1582596600170" />
+    <state x="34" y="22" key="new project wizard" timestamp="1582600226575">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="34" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1582600226575" />
+    <state x="347" y="13" key="refactoring.ChangeSignatureDialog" timestamp="1582275080930">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="347" y="13" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1582275080930" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/pacakage/PrimeNumber/PrimeNumber.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/pacakage/PrimeNumber/PrimeNumber.java</url>
+          <line>11</line>
+          <properties class="com.pacakage.PrimeNumber.PrimeNumber" method="findPrime">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
